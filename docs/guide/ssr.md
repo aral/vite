@@ -24,6 +24,7 @@ Vite provides built-in support for server-side rendering (SSR). The Vite playgro
 
 - [Vue 3](https://github.com/vitejs/vite/tree/main/packages/playground/ssr-vue)
 - [React](https://github.com/vitejs/vite/tree/main/packages/playground/ssr-react)
+- [Svelte](https://github.com/sveltejs/vite-plugin-svelte/tree/main/packages/e2e-tests/vite-ssr)
 
 ## Source Structure
 
